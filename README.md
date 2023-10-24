@@ -1,6 +1,6 @@
-[![Math Utility Repo Applying CI](https://github.com/BubbySweet22/math-util-mvn/actions/workflows/math-util-ci.yml/badge.svg)](https://github.com/BubbySweet22/math-util-mvn/actions/workflows/math-util-ci.yml)
 
-### Welcome to Math Utility Repository
+
+### Welcome to Selenium
 
 #### You will find in this repo the follwing stuff:
 
@@ -8,7 +8,7 @@
 * A Unit Test test script using JUnit Test framework
 * A CI (Continuous Integration) script runnig on GitHub Actions
 
-![test-script with junit 1.1](https://github.com/BubbySweet22/math-util-mvn/blob/main/screenshots/test-script%20with%20junit%201.1.png)
+![Image Selenium](https://vntesters.com/wp-content/uploads/2013/07/selenium-logo.png)
 
 #### Connect me via trantri15963@gmail.com
 
